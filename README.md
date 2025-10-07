@@ -1,23 +1,20 @@
 # azure-vm
-CHANGE LOGO TO AZURE
 
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="1200" height="802" alt="image" src="https://github.com/user-attachments/assets/a87d9cee-8473-43b2-9df0-f8f9a743b5f1" />
+
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Azure - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and installation of Azure Virtual Machine.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+  
 
 <h2>Operating Systems Used </h2>
 
